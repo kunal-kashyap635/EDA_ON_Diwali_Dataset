@@ -122,7 +122,7 @@ jupyter notebook
 Then open:
 
 ```text
-EDA(1).ipynb
+EDA.ipynb
 ```
 
 and run the cells.
