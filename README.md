@@ -136,7 +136,7 @@ and run the cells.
 ```text
 EDA_ON_Diwali_Dataset/
 │
-├── 📓 EDA(1).ipynb
+├── 📓 EDA.ipynb
 ├── 📊 Diwali Sales Data.csv
 └── 📄 README.md
 ```
